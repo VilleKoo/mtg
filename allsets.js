@@ -1,9 +1,9 @@
 var config = {
-    apiKey: "AIzaSyAjw3yBDcqJWssuzsL-Yspdzwo1v44e74M",
-    authDomain: "mtg-sets.firebaseapp.com",
-    databaseURL: "https://mtg-sets.firebaseio.com",
-    storageBucket: "mtg-sets.appspot.com",
-    messagingSenderId: "345921016383"
+    apiKey: "xxx",
+    authDomain: "xxx",
+    databaseURL: "xxx",
+    storageBucket: "xxx",
+    messagingSenderId: "xxx"
   };
 
   firebase.initializeApp(config);
